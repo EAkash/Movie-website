@@ -1,0 +1,6 @@
+#check:checked ~ aside {
+  width: 0;
+  padding: 0;
+  border: none;
+  transition: all 0.3s linear;
+}
